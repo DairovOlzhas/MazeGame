@@ -1,0 +1,4 @@
+#Mon Oct 05 11:38:29 ALMT 2020
+base.0=/home/dheyoungb/Unity/Maze Game/WEBGL/launcher/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
